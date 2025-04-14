@@ -77,7 +77,7 @@ const Expenses = () => {
   };
 
   if (isLoading) {
-    return <div className="py-4">Loading...</div>;
+    return <div className="py-4">Loading..</div>;
   }
 
   if (isError || !expensesData) {
