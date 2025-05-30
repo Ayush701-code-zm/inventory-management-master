@@ -15,4 +15,4 @@
 - **AWS RDS**
 - **AWS API Gateway**
 - **AWS Amplify**
-- **AWS S3**
+- 
