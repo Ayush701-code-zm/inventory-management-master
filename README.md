@@ -14,5 +14,5 @@
 - **AWS EC2**
 - **AWS RDS**
 - **AWS API Gateway**
-- **AWS Amplify**
+- **AWS Amplify
 - 
