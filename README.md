@@ -13,4 +13,3 @@
 - **Prisma**
 - **AWS EC2**
 - **AWS RDS**
-- **AWS API Gateway** 
