@@ -12,4 +12,3 @@
 - **Node.js**
 - **Prisma**
 - **AWS EC2**
-- **AWS RDS**
