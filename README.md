@@ -11,4 +11,3 @@
 - **Material UI Data Grid**
 - **Node.js**
 - **Prisma**
-- **AWS EC2**
